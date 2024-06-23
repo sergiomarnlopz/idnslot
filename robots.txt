@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://idnslot.arxman.com/sitemap.xml
